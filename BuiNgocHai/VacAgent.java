@@ -1,6 +1,4 @@
 /* Name: Bui Ngoc Hai
- * Class: K17 CS
- * Assignment 1: Vacuum World
  */
 
 package BuiNgocHai;
